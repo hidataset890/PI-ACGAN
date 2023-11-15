@@ -1,3 +1,5 @@
+# PI-ACGAN: Polarization imaging shadow removal based on attention conditional generative adversarial networks
+
 Please see 'example.m' for an demonstration. The main routine can be found in 'Polarization_fusion.m'. 
 More information can be found in the .m-files.
 

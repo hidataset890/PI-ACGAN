@@ -1,18 +1,13 @@
+Please see 'example.m' for an demonstration. The main routine can be found in 'Polarization_fusion.m'. 
+More information can be found in the .m-files.
 
-内容
-========
-
-有关演示,请参见" example.m " .主例程可以在极化_融合. m '中找到。
-更多信息可在m档案。
-
-文件列表
--示例。m
+List of files
+- example.m						
 - Polarization_fusion.m
--拉普拉斯金字塔
--高斯_金字塔。m
--重构_拉普拉斯算子_金字塔。m
--展示_金字塔。m(曝光_融合。m不使用)
--上采样。m
--向下采样
--金字塔_过滤器。m
-
+- laplacian_pyramid.m			
+- gaussian_pyramid.m			
+- reconstruct_laplacian_pyramid.m
+- display_pyramid.m	(not used by Polarization_fusion.m)
+- upsample.m				
+- downsample.m				
+- pyramid_filter.m
